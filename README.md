@@ -29,8 +29,18 @@ This task helps understand how data flows over networks and how protocols work i
 
 ---
 
-## 📁 Project Structure
-network-sniffer/
-  │── sniffer.py        → Main Python script
-  │── requirements.txt  → Dependencies
-  │── README.md         → Documentation
+## 🛠️ Technologies Used
+
+- 🐍 Python  
+- 📡 Scapy Library  
+- 🔌 Socket Programming  
+
+---
+
+## ▶️ How to Run
+
+```bash
+git clone https://github.com/your-username/network-sniffer.git
+cd network-sniffer
+pip install -r requirements.txt
+python sniffer.py
