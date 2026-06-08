@@ -56,3 +56,17 @@ Since this is a **network sniffer**, need admin/root permission:
 - Understand networking basics
 - Learn packet structure
 - Practice Python
+## 👨‍💻 Developer
+---
+**Abdulbaseer Serat**  
+🎓 MS in Computer Sciences  
+🏫 Abasyn University, KPK, Pakistan  
+💼 CodeAlpha Intern  
+
+🔗 GitHub: https://github.com/abdulbaseer-Serat  
+📧 Email: info.abdulbasir@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/abdul-basir-serat-65b8201ab  
+
+---
+
+✨ Built as part of **CodeAlpha Internship Program**
