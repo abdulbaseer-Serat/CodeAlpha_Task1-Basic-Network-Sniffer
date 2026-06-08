@@ -39,11 +39,15 @@ This task helps understand how data flows over networks and how protocols work i
 
 ## ▶️ How to Run
 
-## ▶️ How to Run
-
 ```bash
 pip install scapy
 python sniffer.py
 
-⚠️ Run as administrator/root
+---
 
+# ⚠️ Important Tip (VERY IMPORTANT for your project)
+
+Since this is a **network sniffer**, mention admin/root permission:
+
+```markdown
+> ⚠️ Note: Run the script as administrator/root to capture packets.
