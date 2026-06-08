@@ -30,3 +30,7 @@ This task helps understand how data flows over networks and how protocols work i
 ---
 
 ## 📁 Project Structure
+network-sniffer/
+│── sniffer.py        → Main Python script
+│── requirements.txt  → Dependencies
+│── README.md         → Documentation
