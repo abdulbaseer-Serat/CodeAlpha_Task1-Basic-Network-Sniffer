@@ -42,6 +42,9 @@ This task helps understand how data flows over networks and how protocols work i
 ```bash
 pip install scapy
 python sniffer.py
+
+OR
+python analyzer.py
 ```
 
 # ⚠️ Important Tip (VERY IMPORTANT for your project)
@@ -59,8 +62,7 @@ Since this is a **network sniffer**, need admin/root permission:
 ## 🧑‍💻 Developer
 
 Abdulbaseer Serat  
-MS in Computer Sciences · Abasyn University · CodeAlpha Intern  
-[GitHub](https://github.com/abdulbaseer-Serat) · [LinkedIn](https://linkedin.com/in/abdul-basir-serat-65b8201ab) · info.abdulbasir@gmail.com
+MS in Computer Sciences · Abasyn University · CodeAlpha Intern  [GitHub](https://github.com/abdulbaseer-Serat) · [LinkedIn](https://linkedin.com/in/abdul-basir-serat-65b8201ab) · info.abdulbasir@gmail.com
 
 ---
 
