@@ -1,8 +1,8 @@
-# 🌐 Portfolio Site — CodeAlpha Frontend Internship
+# ✅ TASK 1: Basic Network Sniffer
 
-**Task 3: Build Your Own Portfolio Site**  
-Intern: Your Name  
-Organization: CodeAlpha  
+## 📌 Overview
+Build a Python-based tool to capture and analyze network traffic packets.  
+This task helps understand how data flows over networks and how protocols work internally.
 
 ---
 
@@ -10,26 +10,23 @@ Organization: CodeAlpha
 
 | Requirement | Status |
 |------------|--------|
-| Personal portfolio using HTML, CSS, JS | ✅ |
-| Showcase skills, projects, resume, contact | ✅ |
-| Clean responsive layout | ✅ |
-| Smooth animations & effects | ✅ |
-| Deploy on GitHub Pages | ✅ |
+| Build a Python program to capture packets | ✅ |
+| Analyze captured packets | ✅ |
+| Understand network data flow & protocols | ✅ |
+| Use libraries like Scapy / Socket | ✅ |
+| Display IPs, protocols, payload data | ✅ |
 
 ---
 
 ## 🚀 Features
 
-- **Hero Section** — Animated title, CTA buttons  
-- **About Section** — Bio, avatar, skills  
-- **Projects Section** — Projects with links  
-- **Contact Section** — Email + social links  
-- **Custom Cursor** — Cool animation  
-- **Scroll Animations** — Reveal effects  
-- **Responsive Design** — Works on all devices  
+- 📡 Capture live network packets  
+- 🔍 Analyze packet structure  
+- 🌐 Extract source and destination IPs  
+- 📦 View protocols (TCP, UDP, ICMP)  
+- 🧠 Inspect payload data  
+- ⚡ Real-time monitoring  
 
 ---
 
 ## 📁 Project Structure
-
-``
