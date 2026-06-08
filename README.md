@@ -42,8 +42,7 @@ This task helps understand how data flows over networks and how protocols work i
 ```bash
 pip install scapy
 python sniffer.py
-
----
+```
 
 # ⚠️ Important Tip (VERY IMPORTANT for your project)
 
