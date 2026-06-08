@@ -39,8 +39,11 @@ This task helps understand how data flows over networks and how protocols work i
 
 ## ▶️ How to Run
 
+## ▶️ How to Run
+
 ```bash
-git clone https://github.com/your-username/network-sniffer.git
-cd network-sniffer
-pip install -r requirements.txt
+pip install scapy
 python sniffer.py
+
+⚠️ Run as administrator/root
+
