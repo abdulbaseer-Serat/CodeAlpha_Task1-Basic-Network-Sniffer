@@ -51,8 +51,8 @@ Since this is a **network sniffer**, need admin/root permission:
 ```markdown
 > ⚠️ Note: Run the script as administrator/root to capture packets.
 ```
-📚 Learning Objectives
+## 📚 Learning Objectives
 
-Understand networking basics
-Learn packet structure
-Practice Python
+- Understand networking basics
+- Learn packet structure
+- Practice Python
