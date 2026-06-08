@@ -1,6 +1,35 @@
-# STEP 1: Install Required Tools
+# 🌐 Portfolio Site — CodeAlpha Frontend Internship
 
-1. Install Python (if not installed)
+**Task 3: Build Your Own Portfolio Site**  
+Intern: Your Name  
+Organization: CodeAlpha  
 
-   > python --version
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+---
+
+## 📋 Task Requirements
+
+| Requirement | Status |
+|------------|--------|
+| Personal portfolio using HTML, CSS, JS | ✅ |
+| Showcase skills, projects, resume, contact | ✅ |
+| Clean responsive layout | ✅ |
+| Smooth animations & effects | ✅ |
+| Deploy on GitHub Pages | ✅ |
+
+---
+
+## 🚀 Features
+
+- **Hero Section** — Animated title, CTA buttons  
+- **About Section** — Bio, avatar, skills  
+- **Projects Section** — Projects with links  
+- **Contact Section** — Email + social links  
+- **Custom Cursor** — Cool animation  
+- **Scroll Animations** — Reveal effects  
+- **Responsive Design** — Works on all devices  
+
+---
+
+## 📁 Project Structure
+
+``
