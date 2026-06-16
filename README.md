@@ -48,12 +48,8 @@ python sniffer.py
 ```bash
 Network sniffer/
 │
-├── app.py
 ├── README.md
-│
-├── screenshots/
-│   └── output.png
-│
+├── Snipper.py
 └── templates/
     └── index.html
 ```
