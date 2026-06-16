@@ -44,7 +44,19 @@ pip install scapy
 python sniffer.py
 
 ```
-
+## Project Structure
+```bash
+Network sniffer/
+│
+├── app.py
+├── README.md
+│
+├── screenshots/
+│   └── output.png
+│
+└── templates/
+    └── index.html
+```
 # ⚠️ Important Tip (VERY IMPORTANT for your project)
 
 Since this is a **network sniffer**, need admin/root permission:
