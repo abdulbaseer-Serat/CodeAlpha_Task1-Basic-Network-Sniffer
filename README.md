@@ -33,7 +33,7 @@ This task helps understand how data flows over networks and how protocols work i
 
 - 🐍 Python  
 - 📡 Scapy Library  
-- 🔌 Socket Programming  
+- 🔌 Socket Programming & HTML 
 
 ---
 
@@ -43,8 +43,6 @@ This task helps understand how data flows over networks and how protocols work i
 pip install scapy
 python sniffer.py
 
-OR
-python analyzer.py
 ```
 
 # ⚠️ Important Tip (VERY IMPORTANT for your project)
