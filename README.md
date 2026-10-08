@@ -72,4 +72,4 @@ MS in Computer Sciences · Abasyn University · CodeAlpha Intern  [GitHub](https
 
 ---
 
-Built with 💜 as part of CodeAlpha Internship — Task 1
+Built with 💜 as part of CodeAlpha Internship — Task 1.
